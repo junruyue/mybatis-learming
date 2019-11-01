@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/chapter01-simple/chapter01-simple.iml" filepath="$PROJECT_DIR$/chapter01-simple/chapter01-simple.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter06-advanced_query/chapter06-advanced_query.iml" filepath="$PROJECT_DIR$/chapter06-advanced_query/chapter06-advanced_query.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybatis-learming.iml" filepath="$PROJECT_DIR$/mybatis-learming.iml" />
+    </modules>
+  </component>
+</project>

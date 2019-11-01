@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="chapter01-simple" />
+        <module name="chapter06-advanced_query" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="chapter01-simple" target="1.8" />
+      <module name="chapter06-advanced_query" target="1.8" />
+      <module name="mybatis-learming" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
